@@ -1,3 +1,2 @@
-console.log("Code is running!");
-console.log("No errors logged");
-console.log("Styles are applied")
+let a = 1
+console.log(a + 1);
